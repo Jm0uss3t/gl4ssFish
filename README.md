@@ -1,4 +1,4 @@
-Gl4ssfish pownage trhough RMI POC
+Gl4ssfish pownage through RMI POC
 ========
 
 This POC is written in Java. This tool is design to audit the security level of Glassfish
